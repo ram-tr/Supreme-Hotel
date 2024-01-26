@@ -687,7 +687,7 @@ background: linear-gradient(to left, gold , goldenrod);
 /* end of footer */
 
 
-/* @media(max-width:1400px){
+ @media(max-width:1400px){
 
     .customer-card-wrapper{
         flex-direction: column;
@@ -708,7 +708,7 @@ background: linear-gradient(to left, gold , goldenrod);
     .footer-list-item{
         margin-right: 2rem;
     }
-} */
+} 
 
 @media(max-width:1200px)
 {
